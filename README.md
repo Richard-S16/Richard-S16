@@ -1,22 +1,38 @@
 👋 Hi, I’m Richard Schmidt, and I like to use GitHub as my playground. Here is where I like to try and build things with technologies that caught my attention.
-- I don't have any working repository here; all the projects here are things that came out of my mind or were inspired by another app or website.
-- If you want to know more about me, visit my Linkedin profile at www.linkedin.com/in/richard-schmidt16.
 
-My favorite Technologies:
-- 🔥 React/Nextjs
-- 🔥 Typescript
-- 🔥 CSS Modules + PostCSS
-- 🔥 Vite
-- 🔥 Nodejs/Express
-- 🔥 MongoDB
+❗ I don't have any working repository here; all the projects here are things that came out of my mind or were inspired by another app or website. <br>
+❗ Although I can work as a Full Stack, my focus is on Frontend Technologies. <br>
+❗ If you want to know more about me, visit my Linkedin profile at www.linkedin.com/in/richard-schmidt16. <br><br>
 
-I also love:
-- ✨ VanillaJS (obviously 😁)
-- ✨ Preact
-- ✨ Sass
-- ✨ Css-in-js
-- ✨ Bootstrap
-- ✨ Webpack
+
+My favorite Technologies: <br>
+🔥 React/Nextjs <br>
+🔥 Typescript <br>
+🔥 CSS Modules + PostCSS <br>
+🔥 Vite <br>
+🔥 Nodejs/Express <br>
+🔥 MongoDB <br><br>
+
+
+I also love: <br>
+✨ VanillaJS (obviously 😁) <br>
+✨ Preact <br>
+✨ Sass <br>
+✨ Css-in-js <br>
+✨ Bootstrap <br>
+✨ Webpack <br><br>
+
+
+Technologies I want to try: <br>
+⚡ React Native <br>
+⚡ TailwindCSS <br>
+⚡ GraphQL <br>
+⚡ Dart + Flutter <br>
+⚡ Cypress <br>
+⚡ PostgreeSQL <br>
+⚡ Prisma <br>
+⚡ Zod <br>
+
 
 <!---
 Richard-S16/Richard-S16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
