@@ -3,20 +3,20 @@
 - If you want to know more about me, visit my Linkedin profile at www.linkedin.com/in/richard-schmidt16.
 
 My favorite Technologies:
-🔥 React/Nextjs
-🔥 Typescript
-🔥 CSS Modules + PostCSS
-🔥 Vite
-🔥 Nodejs/Express
-🔥 MongoDB
+- 🔥 React/Nextjs
+- 🔥 Typescript
+- 🔥 CSS Modules + PostCSS
+- 🔥 Vite
+- 🔥 Nodejs/Express
+- 🔥 MongoDB
 
 I also love:
-✨ VanillaJS (obviously 😁)
-✨ Preact
-✨ Sass
-✨ Css-in-js
-✨ Bootstrap
-✨ Webpack
+- ✨ VanillaJS (obviously 😁)
+- ✨ Preact
+- ✨ Sass
+- ✨ Css-in-js
+- ✨ Bootstrap
+- ✨ Webpack
 
 <!---
 Richard-S16/Richard-S16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
