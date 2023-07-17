@@ -25,6 +25,7 @@ I also love: <br>
 
 Technologies I want to try: <br>
 ⚡ React Native <br>
+⚡ Framer Motion <br>
 ⚡ TailwindCSS <br>
 ⚡ GraphQL <br>
 ⚡ Dart + Flutter <br>
