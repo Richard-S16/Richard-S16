@@ -20,7 +20,7 @@ I also love: <br>
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Bootstrap <br>
 ✨ Electron <br>
-✨ Vite <br>
+✨ Vite <br><br>
 
 
 Technologies I want to try: <br>
