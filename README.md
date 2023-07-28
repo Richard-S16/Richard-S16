@@ -52,7 +52,7 @@ What languages do you code in? Javascript and Typescript. <br><br>
 Why do you like Javascript? I love its ecosystem, there are a bunch of crazy and innovative people pushing the language to the limit! <br><br>
 Why do you like Typescript? It's JS but improved! In my opinion <br><br>
 TS over JS always? Although I love Typescript, I think JS is enough for most projects. <br><br>
-What OTHER languages do you code in? I have coded in Python and Java, but I wouldn't say I KNOW Python and Java... <br><br>
+What OTHER languages do you code in? I have coded in Python and Java, mostly for my work, but I wouldn't say I KNOW Python and Java... <br><br>
 Would you be willing to learn a new programming language? Absolutely! I even think about a few, but for now I'm going to stick with the JS ecosystem. <br><br>
 <!---
 Richard-S16/Richard-S16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
