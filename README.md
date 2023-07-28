@@ -1,8 +1,11 @@
-👋 Hi, I’m Richard Schmidt, and I like to use GitHub as my playground. Here is where I like to try and build things with technologies that caught my attention.
+# 👋 Hi, I'm Richard Schmidt.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-schmidt16)<br><br>
+I like to use GitHub as my playground. Here is where I like to try and build things with technologies that caught my attention.
 
 ❗ I don't have any working repository here; all the projects here are things that came out of my mind or were inspired by another app or website. <br>
-❗ Although I can work as a Full Stack, my focus is on Frontend Technologies. <br>
-❗ If you want to know more about me, visit my Linkedin profile at www.linkedin.com/in/richard-schmidt16. <br><br>
+❗ Although I can work full stack, my focus is on Frontend Technologies. <br>
+❗ If you want to know more about me, visit my Linkedin profile <br>
+❗ You can also get in touch with me at richard_s16@protonmail.com <br><br>
 
 
 My favorite Technologies: <br>
@@ -34,7 +37,7 @@ Technologies I want to try: <br>
 ⚡ Prisma <br>
 ⚡ tRPC <br>
 ⚡ Tauri <br>
-⚡ Zod <br>
+⚡ Zod <br><br>
 
 
 <!---
