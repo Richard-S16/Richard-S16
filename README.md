@@ -20,6 +20,7 @@ I also love: <br>
 ✨ Sass <br>
 ✨ Css-in-js <br>
 ✨ Bootstrap <br>
+✨ Electron <br>
 ✨ Webpack <br><br>
 
 
@@ -32,6 +33,7 @@ Technologies I want to try: <br>
 ⚡ Cypress <br>
 ⚡ PostgreeSQL <br>
 ⚡ Prisma <br>
+⚡ Tauri <br>
 ⚡ Zod <br>
 
 
