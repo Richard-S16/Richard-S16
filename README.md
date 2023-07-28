@@ -32,6 +32,7 @@ Technologies I want to try: <br>
 ⚡ Cypress <br>
 ⚡ PostgreeSQL <br>
 ⚡ Prisma <br>
+⚡ tRPC <br>
 ⚡ Tauri <br>
 ⚡ Zod <br>
 
