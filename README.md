@@ -17,7 +17,7 @@ I also love: <br>
 ✨ VanillaJS (obviously 😁) <br>
 ✨ Preact <br>
 ✨ Sass <br>
-✨ Css-in-js <br>
+✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Bootstrap <br>
 ✨ Electron <br>
 ✨ Vite <br>
