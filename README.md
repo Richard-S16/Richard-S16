@@ -54,6 +54,7 @@ Why do you like Typescript? It's JS, but improved! In my opinion <br><br>
 TS over JS always? Although I love Typescript, I think JS is enough for most projects. <br><br>
 What OTHER languages do you code in? I have coded in Python and Java, mostly for my work, but I wouldn't say I KNOW Python and Java... <br><br>
 Would you be willing to learn a new programming language? Absolutely! I even think about a few, but for now I'm going to stick with the JS ecosystem. <br><br>
+Do you have any kind of interest in other IT areas (QA, DevOps, Cybersecurity, Machine Learning)? Not really... I have programming as a job and a hobby too.
 <!---
 Richard-S16/Richard-S16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
