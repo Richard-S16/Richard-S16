@@ -21,7 +21,6 @@ I also love: <br>
 ✨ Bootstrap <br>
 ✨ Electron <br>
 ✨ Vite <br>
-✨ Webpack <br><br>
 
 
 Technologies I want to try: <br>
