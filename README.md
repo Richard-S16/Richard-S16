@@ -55,7 +55,7 @@ A bunch! <br>
 Excalidraw. <br>
 
 **What are your thoughts on Angular?** <br>
-Good Framework, but too bloated for most cases. <br>
+Good Framework, but too bloated for most cases. Also, I think Nextjs beats Angular in everything, in my opinion. <br>
 
 **What are your thoughts on other JS Frameworks?** <br>
 I think they are very interesting; although some of them are more of the same, others are quite innovative, and they are trying to push the limits even further. The JS community and ecosystem make me excited! <br>
