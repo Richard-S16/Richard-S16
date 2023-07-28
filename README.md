@@ -9,7 +9,6 @@ My favorite Technologies: <br>
 🔥 React/Nextjs <br>
 🔥 Typescript <br>
 🔥 CSS Modules + PostCSS <br>
-🔥 Vite <br>
 🔥 Nodejs/Express <br>
 🔥 MongoDB <br><br>
 
@@ -21,6 +20,7 @@ I also love: <br>
 ✨ Css-in-js <br>
 ✨ Bootstrap <br>
 ✨ Electron <br>
+✨ Vite <br>
 ✨ Webpack <br><br>
 
 
