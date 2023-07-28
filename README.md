@@ -87,6 +87,12 @@ My design knowledge is very lacking, I usually pick designs made by professional
 **Do you have any kind of interest in other IT areas (QA, DevOps, Cybersecurity, Machine Learning)?** <br>
 Not really... I have software development as a job and a hobby too. <br>
 
+**What's your goal as a Software Engineer?** <br>
+Being capable of developing high-quality applications, no matter if it's on the Web, Mobile or Desktop. <br>
+
+**What's your philosophy for choosing a technology?** <br>
+I usually choose the easiest and minimal route to get things done, even if it's not the most OPTIMAL route. Using cross-platform technologies instead of going fully Native, for example <br>
+
 **Do you use AI in your workflow?** <br>
 YEP! Mostly chatGPT.<br>
 
