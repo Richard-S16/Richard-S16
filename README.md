@@ -35,6 +35,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Cypress <br>
 ⚡ PostgreeSQL <br>
 ⚡ Prisma <br>
+⚡ NextAuth <br>
 ⚡ tRPC <br>
 ⚡ Tauri <br>
 ⚡ Rust <br>
