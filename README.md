@@ -57,6 +57,7 @@ Would you be willing to learn a new programming language? Absolutely! I even thi
 Do you like Backend development? Yes, I do. Although I find Frontend development to be more enjoyable and rewarding. <br><br>
 Ok, you're a Frontend Developer, get it. Now, what about your design knowledge? My design knowledge is very lacking, I usually pick designs made by professional designers instead of creating one from scratch. But I intend to improve my design knowledge! <br><br>
 Do you have any kind of interest in other IT areas (QA, DevOps, Cybersecurity, Machine Learning)? Not really... I have software development as a job and a hobby too. <br><br>
+Do you use AI in your workflow? YEP! Mostly chatGPT.<br><br>
 Linux, Mac, or Windows? I don't really care 😛 <br><br>
 Android or IOS? Android 🤖 <br><br>
 Chrome or Firefox? I use Brave, so... Chrome I guess lol <br><br>
