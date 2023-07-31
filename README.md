@@ -81,11 +81,17 @@ Absolutely! I even think about a few, but for now I'm going to stick with the JS
 **Do you like Backend development?** <br>
 Yes, I do. Although I find Frontend development to be more enjoyable and rewarding. <br>
 
-**Ok, you're a Frontend Developer, get it. Now, what about your design knowledge?** <br>
+**Ok, you're a Frontend Developer, got it. Now, what about your design knowledge?** <br>
 My design knowledge is very lacking, I usually pick designs made by professional designers instead of creating one from scratch. But I intend to improve my design knowledge! <br>
 
 **Do you have any kind of interest in other IT areas (QA, DevOps, Cybersecurity, Machine Learning)?** <br>
 Not really... I have software development as a job and a hobby too. <br>
+
+**What do you like the most about Software Development?** <br>
+Seeing someone other than me interacting with the application, for me, that's the ultimate reward! <br>
+
+**What do you like the least about Software Development?** <br>
+Having to worry about security is, for sure, the thing I like the least about software development. It's really annoying to have to put up a bunch of locks so someone doesn't invade and break your app. <br>
 
 **What's your goal as a Software Engineer?** <br>
 Being capable of developing high-quality applications, no matter if it's on the Web, Mobile or Desktop. <br>
