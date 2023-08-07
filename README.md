@@ -30,6 +30,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ React Native <br>
 ⚡ Framer Motion <br>
 ⚡ TailwindCSS <br>
+⚡ Supabase <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
 ⚡ PostgreeSQL <br>
