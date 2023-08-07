@@ -31,6 +31,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Framer Motion <br>
 ⚡ TailwindCSS <br>
 ⚡ Supabase <br>
+⚡ Strapi <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
 ⚡ PostgreeSQL <br>
