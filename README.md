@@ -13,7 +13,6 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 🔥 Typescript <br>
 🔥 CSS Modules + PostCSS <br>
 🔥 Nodejs/Express <br>
-🔥 MongoDB <br><br>
 
 
 **I also love:** <br>
@@ -23,6 +22,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Bootstrap <br>
 ✨ Electron <br>
+✨ MongoDB <br>
 ✨ Vite <br><br>
 
 
