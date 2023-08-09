@@ -34,12 +34,13 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Strapi <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
-⚡ PostgreeSQL <br>
 ⚡ Prisma <br>
 ⚡ NextAuth <br>
 ⚡ tRPC <br>
 ⚡ Tauri <br>
 ⚡ Rust <br>
+⚡ PostgreeSQL <br>
+⚡ Redis <br>
 ⚡ Zod <br><br>
 
 
