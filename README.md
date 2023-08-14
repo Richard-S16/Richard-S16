@@ -73,7 +73,7 @@ I love its ecosystem, there are a bunch of crazy and innovative people pushing t
 It's JS, but improved! In my opinion <br>
 
 **TS over JS always?** 
-Although I love Typescript, I think JS is enough for most projects. <br>
+Although I love Typescript, I think JS is enough for some projects. <br>
 
 **What OTHER languages do you code in?** <br>
 I have coded in Python and Java, mostly for work, but I wouldn't say I KNOW Python and Java... <br>
