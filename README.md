@@ -20,7 +20,6 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Preact <br>
 ✨ Sass <br>
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
-✨ Bootstrap <br>
 ✨ Electron <br>
 ✨ MongoDB <br>
 ✨ Vite <br><br>
