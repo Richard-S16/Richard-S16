@@ -24,10 +24,6 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ MongoDB <br>
 ✨ Vite <br><br>
 
-**I can also work with:** <br>
-❕Angular
-❕Bootstrap
-
 
 **Technologies I want to try:** <br>
 ⚡ React Native <br>
@@ -47,7 +43,9 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Zod <br><br>
 
 
-
+**I can also work with:** <br>
+❕Angular <br>
+❕Bootstrap <br><br>
 
 
 **FAQ:** <br>
