@@ -15,7 +15,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 🔥 Nodejs/Express <br><br>
 
 
-**I also love:** <br>
+**I also enjoy:** <br>
 ✨ VanillaJS (obviously 😁) <br>
 ✨ Preact <br>
 ✨ Sass <br>
