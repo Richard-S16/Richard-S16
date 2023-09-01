@@ -27,6 +27,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 **Technologies I want to try:** <br>
 ⚡ React Native <br>
+⚡ Astro <br>
 ⚡ Framer Motion <br>
 ⚡ TailwindCSS <br>
 ⚡ Supabase <br>
