@@ -30,18 +30,18 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Framer Motion <br>
 ⚡ React Native <br>
 ⚡ Astro <br>
+⚡ Rust <br>
 ⚡ Tauri <br>
 ⚡ Supabase <br>
 ⚡ Strapi <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
+⚡ Zod <br><br>
 ⚡ Prisma <br>
 ⚡ NextAuth <br>
 ⚡ tRPC <br>
-⚡ Rust <br>
 ⚡ PostgreeSQL <br>
 ⚡ Redis <br>
-⚡ Zod <br><br>
 
 
 **I can also work with:** <br>
