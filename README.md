@@ -26,10 +26,11 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 
 **Technologies I want to try:** <br>
+⚡ TailwindCSS <br>
+⚡ Framer Motion <br>
 ⚡ React Native <br>
 ⚡ Astro <br>
-⚡ Framer Motion <br>
-⚡ TailwindCSS <br>
+⚡ Tauri <br>
 ⚡ Supabase <br>
 ⚡ Strapi <br>
 ⚡ GraphQL <br>
@@ -37,7 +38,6 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Prisma <br>
 ⚡ NextAuth <br>
 ⚡ tRPC <br>
-⚡ Tauri <br>
 ⚡ Rust <br>
 ⚡ PostgreeSQL <br>
 ⚡ Redis <br>
