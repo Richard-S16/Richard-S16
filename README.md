@@ -12,8 +12,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 🔥 React/Nextjs <br>
 🔥 Typescript <br>
 🔥 CSS Modules + PostCSS <br>
-🔥 Nodejs/Express <br><br>
-
+🔥 Nodejs/Express <br>
 
 **I also enjoy:** <br>
 ✨ VanillaJS (obviously 😁) <br>
@@ -22,8 +21,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Electron <br>
 ✨ MongoDB <br>
-✨ Vite <br><br>
-
+✨ Vite <br>
 
 **Technologies I want to try:** <br>
 ⚡ TailwindCSS <br>
@@ -42,7 +40,6 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ tRPC <br>
 ⚡ PostgreeSQL <br>
 ⚡ Redis <br>
-
 
 **I can also work with:** <br>
 ❕Angular <br>
