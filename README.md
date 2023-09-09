@@ -26,15 +26,16 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 **Technologies I want to try:** <br>
 ⚡ TailwindCSS <br>
 ⚡ Framer Motion <br>
-⚡ React Native <br>
 ⚡ Astro <br>
+⚡ React Native <br>
 ⚡ Rust <br>
+⚡ WebAssembly <br>
 ⚡ Tauri <br>
 ⚡ Supabase <br>
 ⚡ Strapi <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
-⚡ Zod <br><br>
+⚡ Zod <br>
 ⚡ Prisma <br>
 ⚡ NextAuth <br>
 ⚡ tRPC <br>
