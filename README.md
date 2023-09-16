@@ -21,6 +21,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Electron <br>
 ✨ MongoDB <br>
+✨ MaterialUI <br>
 ✨ Vite <br>
 
 **Technologies I want to try:** <br>
@@ -28,6 +29,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Framer Motion <br>
 ⚡ Astro <br>
 ⚡ React Native <br>
+⚡ Radix UI <br>
 ⚡ Rust <br>
 ⚡ WebAssembly <br>
 ⚡ Tauri <br>
