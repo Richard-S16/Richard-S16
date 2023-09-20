@@ -63,6 +63,9 @@ A bunch! <br>
 **What program do you use for your diagrams?** <br>
 Excalidraw. <br>
 
+**Why don't you add more stuff to your GitHub?** <br>
+My work drains most of my energy, so I don't have the energy to code more. <br>
+
 **What are your thoughts on Angular?** <br>
 Good framework, but I prefer a more minimalistic approach; I think Angular is too bloated for most cases. <br>
 
@@ -97,7 +100,7 @@ My design knowledge is very lacking, I usually pick designs made by professional
 Not really... I have software development as a job and a hobby too. <br>
 
 **What do you like the most about Software Development?** <br>
-Seeing someone other than me interacting with the application, for me, that's the ultimate reward! <br>
+I just like to build stuff! <br>
 
 **What do you like the least about Software Development?** <br>
 Having to worry about security is, for sure, the thing I like the least about software development. It's really annoying to have to put up a bunch of locks so someone doesn't invade and break your app. <br>
@@ -112,10 +115,10 @@ I usually choose the easiest and minimal route to get things done, even if it's 
 YEP! Mostly chatGPT.<br>
 
 **Linux, Mac, or Windows?** <br>
-I don't really care 😛 <br>
+I don't really care, I use Windows for convenience 😛 <br>
 
 **Android or IOS?** <br>
-Android 🤖 <br>
+I don't care either, I use Android because it is cheaper 🤣 <br>
 
 **Chrome or Firefox?** <br>
 I use Brave, so... Chrome I guess lol <br>
