@@ -63,8 +63,8 @@ A bunch! <br>
 **What program do you use for your diagrams?** <br>
 Excalidraw. <br>
 
-**Why don't you add more stuff to your GitHub?** <br>
-My work drains most of my energy, so I don't have the energy to code more. <br>
+**Why don't you contribute more to your GitHub?** <br>
+My job drains most of my energy, and I also study a lot! But I intend to add more stuff to my Github page. <br>
 
 **What are your thoughts on Angular?** <br>
 Good framework, but I prefer a more minimalistic approach; I think Angular is too bloated for most cases. <br>
@@ -115,10 +115,10 @@ I usually choose the easiest and minimal route to get things done, even if it's 
 YEP! Mostly chatGPT.<br>
 
 **Linux, Mac, or Windows?** <br>
-I don't really care, I use Windows for convenience 😛 <br>
+I don't really care. <br>
 
 **Android or IOS?** <br>
-I don't care either, I use Android because it is cheaper 🤣 <br>
+I don't care either. <br>
 
 **Chrome or Firefox?** <br>
 I use Brave, so... Chrome I guess lol <br>
