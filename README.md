@@ -81,7 +81,7 @@ I love its ecosystem, there are a bunch of crazy and innovative people pushing t
 **Why do you like Typescript?** <br>
 It's JS, but improved! In my opinion <br>
 
-**TS over JS always?** 
+**TS over JS always?** <br>
 Although I love Typescript, I think JS is enough for some projects. <br>
 
 **What OTHER languages do you code in?** <br>
