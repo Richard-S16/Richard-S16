@@ -34,6 +34,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Rust <br>
 ⚡ WebAssembly <br>
 ⚡ Tauri <br>
+⚡ Hono <br>
 ⚡ Supabase <br>
 ⚡ Strapi <br>
 ⚡ GraphQL <br>
