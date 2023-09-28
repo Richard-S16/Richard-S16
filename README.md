@@ -55,7 +55,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 VS Code. <br>
 
 **What theme do you use in VS Code?** <br>
-None in particular, I change every now and then. <br>
+I change every now and then. <br>
 
 **What plugins do you use in your editor?** <br>
 A bunch! <br>
