@@ -21,8 +21,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Electron <br>
 ✨ MongoDB <br>
-✨ MaterialUI <br>
-✨ Joy UI <br>
+✨ MaterialUI / Joy UI <br>
 ✨ Vite <br>
 
 **Technologies I want to try:** <br>
