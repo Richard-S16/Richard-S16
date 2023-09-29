@@ -22,20 +22,19 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Electron <br>
 ✨ MongoDB <br>
 ✨ MaterialUI / Joy UI <br>
+✨ Radix UI <br>
 ✨ Vite <br>
 
-**Technologies I want to try:** <br>
+**Technologies I want to study and try:** <br>
 ⚡ TailwindCSS <br>
 ⚡ Framer Motion <br>
 ⚡ Astro <br>
 ⚡ React Native <br>
-⚡ Radix UI <br>
-⚡ Rust <br>
-⚡ WebAssembly <br>
-⚡ Tauri <br>
+⚡ Zustand <br>
 ⚡ Hono <br>
 ⚡ Supabase <br>
-⚡ Strapi <br>
+⚡ C Fundamentals -> Rust <br>
+⚡ Tauri <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
 ⚡ Zod <br>
