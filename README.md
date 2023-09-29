@@ -88,7 +88,7 @@ Although I love Typescript, I think JS is enough for some projects. <br>
 I have coded in Python and Java, mostly for work, but I wouldn't say I KNOW Python and Java... <br>
 
 **Would you be willing to learn a new programming language?** <br>
-Absolutely! I even think about a few, especially Rust, but for now I'm going to stick with the JS ecosystem. <br>
+Absolutely! I even think about a few, but for now I'm going to stick with the JS ecosystem. <br>
 
 **Do you like Backend development?** <br>
 Yes, I do. Although I find Frontend development to be more enjoyable and rewarding. <br>
