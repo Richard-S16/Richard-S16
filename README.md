@@ -13,6 +13,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 🔥 Typescript <br>
 🔥 CSS Modules + PostCSS <br>
 🔥 Nodejs/Express <br>
+🔥 MongoDB <br>
 
 **I also enjoy:** <br>
 ✨ VanillaJS (obviously 😁) <br>
@@ -20,29 +21,24 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Sass <br>
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Electron <br>
-✨ MongoDB <br>
 ✨ MaterialUI / Joy UI <br>
 ✨ Radix UI Primitives <br>
 ✨ Vite <br>
 
 **Technologies I want to study and try:** <br>
+⚡ Nextjs App Router <br>
 ⚡ TailwindCSS <br>
 ⚡ Framer Motion <br>
 ⚡ Astro <br>
+⚡ Docker <br>
+⚡ PostgreeSQL <br>
 ⚡ React Native <br>
 ⚡ Zustand <br>
-⚡ Hono <br>
 ⚡ Supabase <br>
-⚡ C Fundamentals -> Rust <br>
 ⚡ Tauri <br>
-⚡ GraphQL <br>
-⚡ Cypress <br>
 ⚡ Zod <br>
-⚡ Prisma <br>
-⚡ NextAuth <br>
-⚡ tRPC <br>
-⚡ PostgreeSQL <br>
-⚡ Redis <br>
+⚡ Cypress <br>
+⚡ C Fundamentals <br>
 
 **I can also work with:** <br>
 ❕Angular <br>
