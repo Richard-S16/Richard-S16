@@ -22,7 +22,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Electron <br>
 ✨ MongoDB <br>
 ✨ MaterialUI / Joy UI <br>
-✨ Radix UI <br>
+✨ Radix UI Primitives <br>
 ✨ Vite <br>
 
 **Technologies I want to study and try:** <br>
