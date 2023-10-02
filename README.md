@@ -33,6 +33,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Docker <br>
 ⚡ PostgreeSQL <br>
 ⚡ React Native <br>
+⚡ Capacitor <br>
 ⚡ Zustand <br>
 ⚡ Supabase <br>
 ⚡ Tauri <br>
