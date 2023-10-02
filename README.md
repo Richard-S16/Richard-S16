@@ -104,7 +104,7 @@ Having to worry about security is, for sure, the thing I like the least about so
 Being capable of developing high-quality applications, no matter if it's on the Web, Mobile or Desktop. <br>
 
 **What's your philosophy for choosing a technology?** <br>
-I usually choose the easiest and minimal route to get things done, even if it's not the most OPTIMAL route. Using cross-platform technologies instead of going fully Native, for example <br>
+I usually choose the minimal route to get things done, even if it's not the most OPTIMAL route. Using cross-platform technologies instead of going fully Native, for example <br>
 
 **Do you use AI in your workflow?** <br>
 YEP! Mostly chatGPT.<br>
