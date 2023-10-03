@@ -39,7 +39,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Tauri <br>
 ⚡ Zod <br>
 ⚡ Cypress <br>
-⚡ C Fundamentals <br>
+⚡ Rust <br>
 
 **I can also work with:** <br>
 ❕Angular <br>
