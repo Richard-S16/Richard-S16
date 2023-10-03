@@ -56,9 +56,6 @@ I change every now and then. <br>
 **What plugins do you use in your editor?** <br>
 A bunch! <br>
 
-**What program do you use for your diagrams?** <br>
-Excalidraw. <br>
-
 **Why don't you contribute more to your GitHub?** <br>
 My job drains most of my energy, and I also study a lot! But I intend to add more stuff to my Github page. <br>
 
@@ -84,7 +81,7 @@ Although I love Typescript, I think JS is enough for some projects. <br>
 I have coded in Python and Java, mostly for work, but I wouldn't say I KNOW Python and Java... <br>
 
 **Would you be willing to learn a new programming language?** <br>
-Absolutely! I even think about a few, but for now I'm going to stick with the JS ecosystem. <br>
+Absolutely! I even think about a few(Rust is on my radar), but for now I'm going to stick with the JS ecosystem. <br>
 
 **Do you like Backend development?** <br>
 Yes, I do. Although I find Frontend development to be more enjoyable and rewarding. <br>
@@ -99,16 +96,16 @@ Not really... I have software development as a job and a hobby too. <br>
 I just like to build stuff! <br>
 
 **What do you like the least about Software Development?** <br>
-Having to worry about security is, for sure, the thing I like the least about software development. It's really annoying to have to put up a bunch of locks so someone doesn't invade and break your app. <br>
+Short deadlines. It's really difficult to build something of high quality with a hasty deadline. <br>
 
 **What's your goal as a Software Engineer?** <br>
 Being capable of developing high-quality applications, no matter if it's on the Web, Mobile or Desktop. <br>
 
 **What's your philosophy for choosing a technology?** <br>
-I usually choose the minimal route to get things done, even if it's not the most OPTIMAL route. Using cross-platform technologies instead of going fully Native, for example <br>
+I usually choose the minimal route to get things done, even if it's not the most OPTIMAL route. Using cross-platform technologies instead of going fully Native, for example. <br>
 
 **Do you use AI in your workflow?** <br>
-YEP! Mostly chatGPT.<br>
+YEP! Mostly chatGPT. <br>
 
 **Linux, Mac, or Windows?** <br>
 I don't really care. <br>
