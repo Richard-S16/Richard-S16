@@ -38,6 +38,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Supabase <br>
 ⚡ Tauri <br>
 ⚡ Zod <br>
+⚡ GraphQL <br>
 ⚡ Cypress <br>
 ⚡ Rust <br>
 
