@@ -14,6 +14,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 🔥 CSS Modules + PostCSS <br>
 🔥 Nodejs/Express <br>
 🔥 MongoDB <br>
+🔥 Framer Motion <br>
 
 **I also enjoy:** <br>
 ✨ VanillaJS (obviously 😁) <br>
@@ -28,7 +29,6 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 **Technologies I want to study and try:** <br>
 ⚡ Nextjs App Router <br>
 ⚡ TailwindCSS <br>
-⚡ Framer Motion <br>
 ⚡ Astro <br>
 ⚡ Docker <br>
 ⚡ PostgreeSQL <br>
