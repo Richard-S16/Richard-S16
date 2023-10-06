@@ -22,6 +22,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Sass <br>
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Electron <br>
+✨ Firebase <br>
 ✨ MaterialUI / Joy UI <br>
 ✨ Radix UI Primitives <br>
 ✨ Vite <br>
@@ -32,9 +33,10 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Astro <br>
 ⚡ Docker <br>
 ⚡ PostgreeSQL <br>
-⚡ React Native <br>
 ⚡ Capacitor <br>
+⚡ React Native <br>
 ⚡ Zustand <br>
+⚡ Three Fiber <br>
 ⚡ Supabase <br>
 ⚡ Tauri <br>
 ⚡ Zod <br>
@@ -44,6 +46,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 **I can also work with:** <br>
 ❕Angular <br>
+❕Babylon.js <br>
 ❕Bootstrap <br><br>
 
 
