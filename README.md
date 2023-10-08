@@ -30,6 +30,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 **Technologies I want to study and try:** <br>
 ⚡ Nextjs App Router <br>
 ⚡ TailwindCSS <br>
+⚡ JSDoc <br>
 ⚡ Astro <br>
 ⚡ Docker <br>
 ⚡ PostgreeSQL <br>
