@@ -6,7 +6,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 ❗ Although I can work Full Stack (Frontend & Backend using Typescript), **my focus is on Frontend Technologies**. <br>
 
-❗ I'm used to work with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm **NOT** a **UI/UX Designer**<br>
+❗ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm **NOT** a **UI/UX Designer**<br>
 
 ❗ If you want to know more about me, visit my LinkedIn profile <br>
 
