@@ -9,6 +9,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 
 **My favorite Technologies:** <br>
+🔥 Figma <br>
 🔥 React/Nextjs <br>
 🔥 Typescript <br>
 🔥 TailwindCSS <br>
@@ -47,8 +48,9 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 **I can also work with:** <br>
 ❕Angular <br>
-❕Babylon.js <br>
-❕Bootstrap <br><br>
+❕Bootstrap <br>
+❕Adobe XD <br>
+❕Babylon.js <br><br>
 
 
 **FAQ:** <br>
