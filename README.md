@@ -13,9 +13,9 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 🔥 React/Nextjs <br>
 🔥 Typescript <br>
 🔥 TailwindCSS <br>
+🔥 Framer Motion <br>
 🔥 Nodejs/Express <br>
 🔥 MongoDB <br>
-🔥 Framer Motion <br>
 
 **I also enjoy:** <br>
 ✨ VanillaJS (obviously 😁) <br>
