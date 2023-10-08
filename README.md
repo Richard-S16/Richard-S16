@@ -11,7 +11,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 **My favorite Technologies:** <br>
 🔥 React/Nextjs <br>
 🔥 Typescript <br>
-🔥 CSS Modules + PostCSS <br>
+🔥 TailwindCSS <br>
 🔥 Nodejs/Express <br>
 🔥 MongoDB <br>
 🔥 Framer Motion <br>
@@ -19,6 +19,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 **I also enjoy:** <br>
 ✨ VanillaJS (obviously 😁) <br>
 ✨ Preact <br>
+✨ CSS Modules + PostCSS <br>
 ✨ Sass <br>
 ✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Electron <br>
@@ -29,7 +30,6 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 **Technologies I want to study and try:** <br>
 ⚡ Nextjs App Router <br>
-⚡ TailwindCSS <br>
 ⚡ JSDoc <br>
 ⚡ Astro <br>
 ⚡ Docker <br>
