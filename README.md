@@ -36,8 +36,6 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ✨ Vite <br>
 
 **Technologies I want to study and try:** <br>
-⚡ Nextjs App Router <br>
-⚡ JSDoc <br>
 ⚡ Astro <br>
 ⚡ Docker <br>
 ⚡ PostgreeSQL <br>
@@ -50,6 +48,7 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 ⚡ Zod <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
+⚡ Dart -> Flutter <br>
 ⚡ Rust <br>
 
 **I can also work with:** <br>
