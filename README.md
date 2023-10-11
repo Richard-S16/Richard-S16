@@ -1,5 +1,4 @@
-Hi 👋 My name is Richard Schmidt
-================================
+<h1>Hi 👋 My name is Richard Schmidt</h1>
 
 Front-end Software Engineer
 ---------------------------
