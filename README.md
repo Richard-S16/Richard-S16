@@ -1,5 +1,8 @@
-# 👋 Hi, I'm Richard Schmidt.
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-schmidt16)<br><br>
+Hi 👋 My name is Richard Schmidt
+================================
+
+Front-end Software Engineer
+---------------------------
 I like to use GitHub as my playground. Here is where I like to try and build things with technologies that caught my attention.
 
 ❗ I don't have any work repositories here; all the projects here are things that came out of my mind or were inspired by another app or website. <br>
@@ -10,7 +13,9 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 ❗ If you want to know more about me, visit my LinkedIn profile <br>
 
-❗ You can also get in touch with me at richard_s16@protonmail.com <br><br>
+✉️ You can contact me at [rschmidt@protonmail.com](mailto:rschmidt@protonmail.com)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-schmidt16)<br><br>
 
 ## My favorite Technologies:
 🔥 Figma <br>
