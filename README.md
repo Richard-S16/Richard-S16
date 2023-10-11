@@ -1,7 +1,6 @@
-<h1>Hi 👋 My name is Richard Schmidt</h1>
+# Hi 👋 My name is Richard Schmidt
+## Front-end Software Engineer
 
-Front-end Software Engineer
----------------------------
 I like to use GitHub as my playground. Here is where I like to try and build things with technologies that caught my attention.
 
 ❗ I don't have any work repositories here; all the projects here are things that came out of my mind or were inspired by another app or website. <br>
