@@ -15,8 +15,10 @@ I like to use GitHub as my playground. Here is where I like to try and build thi
 
 ✉️ You can contact me at [rschmidt@protonmail.com](mailto:rschmidt@protonmail.com)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-schmidt16)<br><br>
+### Socials
 
+<p align="left"> <a href="https://www.linkedin.com/in/richard-schmidt16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+                  
 ## My favorite Technologies:
 🔥 Figma <br>
 🔥 React/Nextjs <br>
