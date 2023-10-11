@@ -3,13 +3,11 @@
 
 I like to use GitHub as my playground. Here is where I like to try and build things with technologies that caught my attention.
 
-❗ I don't have any work repositories here; all the projects here are things that came out of my mind or were inspired by another app or website. <br>
+I don't have any work repositories here; all the projects here are things that came out of my mind or were inspired by another app or website.
 
-❗ Although I can work Full Stack (Frontend & Backend using Typescript), **my focus is on Frontend Technologies**. <br>
+Although I can work Full Stack (Frontend & Backend using Typescript), **my focus is on Frontend Technologies**.
 
-❗ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm **NOT** a **UI/UX Designer**<br>
-
-❗ If you want to know more about me, visit my LinkedIn profile <br>
+I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm **NOT** a **UI/UX Designer**
 
 ✉️ You can contact me at [rschmidt@protonmail.com](mailto:rschmidt@protonmail.com)
 
