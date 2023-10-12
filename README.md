@@ -58,6 +58,8 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ### Technologies I want to study and try:
 ⚡ Capacitor <br>
 ⚡ Tauri <br>
+⚡ React Native <br>
+⚡ Astro <br>
 ⚡ Docker <br>
 ⚡ PostgreeSQL <br>
 ⚡ Zustand <br>
@@ -66,8 +68,6 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ⚡ Zod <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
-⚡ React Native <br>
-⚡ Dart -> Flutter <br>
 ⚡ Rust <br>
 <!---
 Richard-S16/Richard-S16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
