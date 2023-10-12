@@ -56,18 +56,17 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ❕Babylon.js <br><br>
 
 ### Technologies I want to study and try:
-⚡ Astro <br>
+⚡ Capacitor <br>
+⚡ Tauri <br>
 ⚡ Docker <br>
 ⚡ PostgreeSQL <br>
-⚡ Capacitor <br>
-⚡ React Native <br>
 ⚡ Zustand <br>
 ⚡ Three Fiber <br>
 ⚡ Supabase <br>
-⚡ Tauri <br>
 ⚡ Zod <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
+⚡ React Native <br>
 ⚡ Dart -> Flutter <br>
 ⚡ Rust <br>
 <!---
