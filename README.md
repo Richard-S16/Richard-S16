@@ -41,7 +41,6 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ✨ Preact <br>
 ✨ CSS Modules + PostCSS <br>
 ✨ Sass <br>
-✨ Css-in-js (Styled Components/styled-jsx) <br>
 ✨ Electron <br>
 ✨ Firebase <br>
 ✨ MaterialUI / Joy UI <br>
@@ -53,8 +52,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ❕Angular <br>
 ❕Bootstrap <br>
 ❕Redux <br>
-❕Styled Components <br>
-❕styled-jsx <br>
+❕Css-in-js (Styled Components/styled-jsx) <br>
 ❕Adobe XD <br>
 ❕Babylon.js <br><br>
 
