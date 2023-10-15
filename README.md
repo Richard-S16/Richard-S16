@@ -52,6 +52,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ## I can also work with:
 ❕Angular <br>
 ❕Bootstrap <br>
+❕Redux <br>
 ❕Styled Components <br>
 ❕styled-jsx <br>
 ❕Adobe XD <br>
