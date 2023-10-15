@@ -53,6 +53,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ❕Angular <br>
 ❕Bootstrap <br>
 ❕Styled Components <br>
+❕styled-jsx <br>
 ❕Adobe XD <br>
 ❕Babylon.js <br><br>
 
