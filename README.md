@@ -37,7 +37,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 <br>
 
 ## I also enjoy:
-✨ VanillaJS (obviously 😁) <br>
+✨ JavaScript (obviously 😁) <br>
 ✨ Preact <br>
 ✨ CSS Modules + PostCSS <br>
 ✨ Sass <br>
