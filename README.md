@@ -20,6 +20,8 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> TailwindCSS
 
+<a href="https://www.radix-ui.com/primitives" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" width="36" height="36" alt="Radix UI" /></a> Radix UI
+
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://hero35.com/stacks/framer-motion.svg" width="36" height="36" alt="Framer Motion" /></a> Framer Motion
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> React
