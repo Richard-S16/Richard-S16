@@ -71,7 +71,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ⚡ Zod <br>
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
-⚡ Rust <br>
+⚡ Golang <br>
 <!---
 Richard-S16/Richard-S16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
