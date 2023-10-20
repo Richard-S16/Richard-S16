@@ -63,6 +63,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ⚡ Tauri <br>
 ⚡ React Native <br>
 ⚡ Zustand <br>
+⚡ React Query <br>
 ⚡ Docker <br>
 ⚡ PostgreeSQL <br>
 ⚡ Golang <br>
