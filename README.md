@@ -1,5 +1,5 @@
 # Hi 👋 My name is Richard Schmidt
-## Front-end Software Engineer
+## Front-end/UI Software Engineer
 
 I like to use GitHub as my playground. Here is where I like to try and build things with technologies that caught my attention.
 
@@ -16,8 +16,10 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 <br>
                   
 ## My favorite Technologies:
+#### Design Tool:
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> Figma
 
+### Frontend: ✨
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> TailwindCSS
 
 <a href="https://www.radix-ui.com/primitives" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" width="36" height="36" alt="Radix UI" /></a> Radix UI
@@ -28,13 +30,16 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJs" /></a> Nextjs
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> Typescript
-
+#### Backend:
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> NodeJS
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" /></a> Express
 
+#### Database:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> MongoDB
+
+### Programming Languages:
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> Typescript
 
 <br>
 
