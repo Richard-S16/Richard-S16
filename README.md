@@ -67,6 +67,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ⚡ Capacitor <br>
 ⚡ Tauri <br>
 ⚡ React Native <br>
+⚡ NextAuth <br>
 ⚡ Zustand <br>
 ⚡ React Query <br>
 ⚡ Docker <br>
