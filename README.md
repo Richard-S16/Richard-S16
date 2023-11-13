@@ -9,7 +9,7 @@ Although I can work Full Stack (Frontend & Backend using Typescript), **my focus
 
 I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm **NOT** a **UI/UX Designer**
 
-✉️ You can contact me at [rschmidt@protonmail.com](mailto:rschmidt@protonmail.com)
+✉️ You can contact me at [richard_s16@protonmail.com](mailto:richard_s16@protonmail.com)
 
 ### Socials
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
