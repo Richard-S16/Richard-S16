@@ -61,6 +61,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ❕Redux <br>
 ❕Css-in-js (Styled Components/styled-jsx) <br>
 ❕Adobe XD <br>
+❕Docker <br>
 ❕Babylon.js <br><br>
 
 ### Technologies I want to study and try:
@@ -70,7 +71,6 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ⚡ NextAuth <br>
 ⚡ Zustand <br>
 ⚡ React Query <br>
-⚡ Docker <br>
 ⚡ PostgreeSQL <br>
 ⚡ Golang <br>
 ⚡ GraphQL <br>
