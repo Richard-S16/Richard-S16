@@ -17,7 +17,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 
 ### Socials
 <a href="https://www.linkedin.com/in/richard-schmidt16/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<br>
+<br><br>
                   
 ## My favorite Technologies:
 #### Design Tool:
