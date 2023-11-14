@@ -66,21 +66,8 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ❕Css-in-js (Styled Components/styled-jsx) <br>
 ❕Adobe XD <br>
 ❕Docker <br>
-❕Babylon.js <br><br>
-
-### Technologies I want to study and try:
-⚡ Capacitor <br>
-⚡ Tauri <br>
-⚡ React Native <br>
-⚡ NextAuth <br>
-⚡ Zustand <br>
-⚡ React Query <br>
-⚡ PostgreeSQL <br>
-⚡ Golang <br>
-⚡ GraphQL <br>
-⚡ Cypress <br>
-⚡ Zod <br>
-⚡ Three Fiber <br><br>
+❕Babylon.js <br>
+❕Tensorflow.js <br><br>
 
 Partially built with <a href="https://www.profileme.dev" target="_blank">profileme.dev</a>
 <!---
