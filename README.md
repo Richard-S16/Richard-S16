@@ -7,12 +7,16 @@ I don't have any work repositories here; all the projects here are things that c
 
 Although I can work Full Stack (Frontend & Backend using Typescript), **my focus is on Frontend Technologies**.
 
-I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm **NOT** a **UI/UX Designer**
+I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm **NOT** a **UI/UX Designer**<br><br>
+
+🌍  I'm based in Brazil
+
+👨‍💻  I'm currently working at <a href="https://www.lenovo.com/us/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Lenovo_logo_2015.svg" width="64" height="12" /></a>
 
 ✉️ You can contact me at [richard_s16@protonmail.com](mailto:richard_s16@protonmail.com)
 
 ### Socials
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href="https://www.linkedin.com/in/richard-schmidt16/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <br>
                   
 ## My favorite Technologies:
@@ -39,19 +43,19 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> MongoDB
 
 ### Programming Languages:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> Javascript
+
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> Typescript
 
 <br>
 
 ## I also enjoy:
-✨ JavaScript (obviously 😁) <br>
 ✨ Preact <br>
 ✨ CSS Modules + PostCSS <br>
 ✨ Sass <br>
 ✨ Electron <br>
 ✨ Firebase <br>
 ✨ MaterialUI / Joy UI <br>
-✨ Radix UI Primitives <br>
 ✨ Canva <br>
 ✨ Vite <br><br>
 
@@ -76,7 +80,9 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ⚡ GraphQL <br>
 ⚡ Cypress <br>
 ⚡ Zod <br>
-⚡ Three Fiber <br>
+⚡ Three Fiber <br><br>
+
+Partially built with <a href="https://www.profileme.dev" target="_blank">profileme.dev</a>
 <!---
 Richard-S16/Richard-S16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
