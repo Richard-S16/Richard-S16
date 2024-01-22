@@ -42,6 +42,11 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 #### Database:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> MongoDB
 
+#### Mobile:
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> React Native
+
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/1*XYq7wkeySxSuaJZfx75CPQ.png" width="36" height="36" alt="React" /></a> Expo
+
 ### Programming Languages:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> Javascript
 
@@ -56,8 +61,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 ✨ Electron <br>
 ✨ Firebase <br>
 ✨ MaterialUI / Joy UI <br>
-✨ Canva <br>
-✨ Vite <br><br>
+✨ Canva <br><br>
 
 ## I can also work with:
 ❕Angular <br>
