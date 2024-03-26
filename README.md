@@ -52,26 +52,7 @@ I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> Typescript
 
-<br>
-
-## I also enjoy:
-✨ Preact <br>
-✨ CSS Modules + PostCSS <br>
-✨ Sass <br>
-✨ Electron <br>
-✨ Firebase <br>
-✨ MaterialUI / Joy UI <br>
-✨ Canva <br><br>
-
-## I can also work with:
-❕Angular <br>
-❕Bootstrap <br>
-❕Redux <br>
-❕Css-in-js (Styled Components/styled-jsx) <br>
-❕Adobe XD <br>
-❕Docker <br>
-❕Babylon.js <br>
-❕Tensorflow.js <br><br>
+<br><br>
 
 Partially built with <a href="https://www.profileme.dev" target="_blank">profileme.dev</a>
 <!---
