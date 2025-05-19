@@ -7,12 +7,8 @@ I don't have any work repositories here; all the projects here are things that c
 
 Although I can work Full Stack (Frontend & Backend using Typescript), **my focus is on Frontend Technologies**.
 
-I'm used to working with modern Design Tools, e.g. Figma/Adobe XD/Canva. But I'm **NOT** a **UI/UX Designer**<br><br>
+<br/>
 
-🌍  I'm based in Brazil
+Email: [richard_s16@protonmail.com](mailto:richard_s16@protonmail.com)
 
-✉️ You can contact me at [richard_s16@protonmail.com](mailto:richard_s16@protonmail.com)
-
-### Socials
-<a href="https://www.linkedin.com/in/richard-schmidt16/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<br><br>
+LinkedIn: https://www.linkedin.com/in/richard-schmidt16/
