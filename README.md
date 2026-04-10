@@ -1,11 +1,17 @@
 # Hi 👋 My name is Richard Schmidt
 ## Front-end/UI Software Engineer
 
-I like to use GitHub as my playground. Here is where I like to try and build things with technologies that caught my attention.
+I build tools and experiments around:
 
-I don't have any work repositories here; all the projects here are things that came out of my mind or were inspired by another app or website.
+• React rendering performance
 
-Although I can work Full Stack (Frontend & Backend using Typescript), **my focus is on Frontend Technologies**.
+• Core Web Vitals optimization
+
+• modern web architecture (Next.js, SSR, BFF)
+
+• browser-based 3D experiences
+
+Currently building projects to explore advanced frontend performance tooling.
 
 <br/>
 
